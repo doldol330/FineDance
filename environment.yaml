@@ -9,6 +9,7 @@ channels:
   - https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud/conda-forge/
   - defaults
 dependencies:
+  - pip
   - _libgcc_mutex=0.1=main
   - _openmp_mutex=5.1=1_gnu
   - aiohttp=3.8.1=py38h0a891b7_1
@@ -340,4 +341,4 @@ dependencies:
     - wheel==0.41.2
     - yacs==0.1.8
     - zipp==3.16.2
-prefix: /home/kim/anaconda3/envs
+prefix: /home/kim/anaconda3/envs/FineNet
